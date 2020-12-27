@@ -3,3 +3,4 @@
 phpinfo();
 # sddfff
 #fsdfdsfdsfdsgit
+echo"test";
